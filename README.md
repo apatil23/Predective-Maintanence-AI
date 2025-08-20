@@ -45,3 +45,4 @@ Dataset: `data/predictive_maintenance_data.csv`
 
 ## 📂 Project Structure
 # Predective-Maintanence-AI
+# Predective-Maintanence-AI
